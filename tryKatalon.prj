@@ -3,7 +3,11 @@
    <description></description>
    <name>tryKatalon</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>ef5347e7-2703-4479-8052-2860770ca87b</UUID>
+=======
+   <UUID>dd3480b8-8812-4f40-aaab-78c3c2f22408</UUID>
+>>>>>>> branch 'master' of https://github.com/smyxhlyx/tryKatalon.git
    <migratedVersion>5.4.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
 </Project>
